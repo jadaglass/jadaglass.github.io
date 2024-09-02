@@ -6,7 +6,7 @@
     </a>
 <p>My name is Jada Glass. I am a senior at the University of Missouri studying journalism. I have a dog names Pebbles who I love. Gray is my favorite color! This is my paragraph text.</p>
 <body>
-    <h2>My Custom Unordered List with Links</h2>
+    <h2>My Unordered List with Links</h2>
     <ul class="custom-list">
         <li><a href="https://kcou.fm">Jada's Jams Radio Show Broadcast Stream</a></li>
         <li><a href="https://journalism.missouri.edu">University of Missouri Journalism School</a></li>
