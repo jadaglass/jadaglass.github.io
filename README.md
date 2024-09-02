@@ -8,10 +8,10 @@
 <body>
     <h2>My Custom Unordered List with Links</h2>
     <ul class="custom-list">
-        <li><a href="https://example.com/first">First item</a></li>
-        <li><a href="https://example.com/second">Second item</a></li>
-        <li><a href="https://example.com/third">Third item</a></li>
-        <li><a href="https://example.com/fourth">Fourth item</a></li>
-        <li><a href="https://example.com/fifth">Fifth item</a></li>
+        <li><a href="https://example.com/first">Jada's Jams Radio Show Broadcast Stream</a></li>
+        <li><a href="https://example.com/second">University of Missouri Journalism School</a></li>
+        <li><a href="https://example.com/third">Girl Wyd? Podcast with Jada Cheyenne</a></li>
+        <li><a href="https://example.com/fourth">RJI Fellowship Article</a></li>
+        <li><a href="https://example.com/fifth">RJI Fellowship Article 2</a></li>
     </ul>
 </body>
