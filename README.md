@@ -14,4 +14,9 @@
         <li><a href="https://example.com/fourth">RJI Fellowship Article</a></li>
         <li><a href="https://example.com/fifth">RJI Fellowship Article 2</a></li>
     </ul>
+  <nav>
+        <a href="index.html">Home</a>
+        <a href="about.html">About</a> <!-- Link to another page in your site -->
+        <a href="contact.html">Contact</a>
+    </nav>
 </body>
