@@ -1,6 +1,4 @@
 # jadaglass.github.io
-<title>Jada Glass Website
-</title>
  <a href="mailto:jcg2wc@umsystem.edu">
          <img src="https://github.com/user-attachments/assets/059c87d0-0067-4818-846d-539b64e5aefd" alt="Black Heart" style="width:100px;height:100px;">
     </a>
