@@ -8,11 +8,11 @@
 <body>
     <h2>My Custom Unordered List with Links</h2>
     <ul class="custom-list">
-        <li><a href="https://example.com/first">Jada's Jams Radio Show Broadcast Stream</a></li>
-        <li><a href="https://example.com/second">University of Missouri Journalism School</a></li>
-        <li><a href="https://example.com/third">Girl Wyd? Podcast with Jada Cheyenne</a></li>
-        <li><a href="https://example.com/fourth">RJI Fellowship Article</a></li>
-        <li><a href="https://example.com/fifth">RJI Fellowship Article 2</a></li>
+        <li><a href="https://kcou.fm">Jada's Jams Radio Show Broadcast Stream</a></li>
+        <li><a href="https://journalism.missouri.edu">University of Missouri Journalism School</a></li>
+        <li><a href="https://www.youtube.com/@Jada.Cheyenne">Girl Wyd? Podcast with Jada Cheyenne</a></li>
+        <li><a href="https://rjionline.org/news/developing-a-tiktok-campaign-to-boost-high-school-sports-coverage">RJI Fellowship Article</a></li>
+        <li><a href="https://rjionline.org/news/how-to-increase-community-engagement-on-facebook">RJI Fellowship Article 2</a></li>
     </ul>
   <nav>
         <a href="Contact">Contact</a> <Contact>
