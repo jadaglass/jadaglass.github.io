@@ -15,6 +15,6 @@
         <li><a href="https://example.com/fifth">RJI Fellowship Article 2</a></li>
     </ul>
   <nav>
-        <a href="contact.html">Contact</a> <Contact>
+        <a href="Contact">Contact</a> <Contact>
     </nav>
 </body>
