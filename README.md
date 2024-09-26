@@ -1,7 +1,9 @@
 # jadaglass.github.io
 <html lang="en">
-<body>
-<link rel="stylesheet" href="styles.css">   
+<head>
+   <link rel="stylesheet" href="styles.css"> 
+</head>
+   <body>  
    <h1>Jada Glass
 </h1>
 <a href="mailto:jcg2wc@umsystem.edu">
